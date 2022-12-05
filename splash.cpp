@@ -66,5 +66,5 @@ int main(int argc, char *argv[]) {
       fout << "\t\t\"" << splash[i] << "\"\n";
     }
   }
-  fout << "\t] \n }";
+  fout << "\t] \n } \n";
 }
